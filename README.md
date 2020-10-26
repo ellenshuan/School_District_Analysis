@@ -14,6 +14,21 @@ The purpose of this school district analysis is to help the school board analyze
 •	Replacing ninth graders scores has a positive effect on math and reading scores by grade. The percent passing math and percent passing reading has all increased. Replacing ninth-grade scores in Thomas High School however had no effect on scores by school spending, scores by school size, and scores by school type. 
 
 ## Images
+Data on Top 5 Performing Schools: 
+
+![](./Resources/top_5_performing_schools.png)
+
+Data on Bottom 5 Performing Schools:
+
+![](./Resources/bottom_5_performing_schools.png)
+
+School District Data For Each School:
+
+![](./Resources/per_school_summary.png)
+
+School District Data For Each School Wihtout Thomas High School Math/Reading Scores: 
+
+![](./Resources/per_school_summary_without_9thgrade.png)
 
 
 
