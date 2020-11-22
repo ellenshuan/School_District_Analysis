@@ -1,7 +1,6 @@
 # School_District_Analysis
 
 ## Overview  
-
 The purpose of this school district analysis is to help the school board analyze data about students math and reading scores from different high schools to determine their average scores, percent of students who passed math, percent of students who passed reading, and percent overall passing per school. We were also able to determine scores by school size, scores by school type, and scores by school spending to be able to pinpoint how the school district can help students increase their academic performance in school.
 
 ## Results 
